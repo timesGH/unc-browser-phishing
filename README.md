@@ -1,4 +1,4 @@
-# NTLMv2 Phishing PoC
+# UNC Browser Phishing PoC
 
 Cloudflare Worker that turns UNC-based Net-NTLMv2 leakage into a practical phishing flow. UNC path never appears in HTML source, only returned after Turnstile verification.
 

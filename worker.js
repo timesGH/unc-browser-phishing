@@ -4,7 +4,7 @@
 
 const CONFIG = {
     TARGET_PATH: '\\\\YOUR_SERVER_IP\\sharename',
-    ALLOWED_DOMAIN: 'loading.ckdesk.net',
+    ALLOWED_DOMAIN: 'yourdomain.com',
     VERIFY_ACTION: 'security_verification',
     MAX_ATTEMPTS: 5,
     TRACKING_WINDOW: 3600,
